@@ -1,16 +1,18 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Alexander Oakley's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Alexander Oakley
+Recent Graduate, Python Developer.
+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="a@oakl.org">a@oakl.org</a>
+| <a href="https://github.com/oakla">My GitHub page</a>
 </div>
 
 
+<!--
 ## Currently
 
 Standing on the shoulders of giants
@@ -18,74 +20,91 @@ Standing on the shoulders of giants
 ### Specialized in
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+-->
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2015-2020`
+__Bachelor Of Science, University Of Tasmania__
+- Applied Maths and Statistics (Major)
+- Machine Learning
+- Psychology
+- Biology
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2016-2020`
+__Bachelor Of Philosophy, University Of Tasmania__
+- Formal Logic
+- Foreign Language (German, and Indonesian)
+- Religion and Culture (Tibetan Buddhism, and Indonesian Culture)
 
-- Sizar
+<!-- 
+`2018`
+__Overseas Exchange Semester, Radboud University__
+- Artificial Intelligence
+- Data Mining
+- Brain-Computer Interfaces
+-->
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+`2011-2014`
+__Bachelor Of Computer Science, University Of Western Australia__
+- Algorithms and Computation (Major)
+- Databases
+- Networks and Security
+- Data Structures 
+- Operating Systems
+- Web Technology
+- Programming Paradigms
+- Graphics
 
 ## Awards
 
+<!--
 `2012`
 President, *Royal Society*, London, UK
 
 Associate, *French Academy of Science*, Paris, France
+-->
 
+## Work History
 
+`June 2019 – Nov 2021`
+**University of Tasmania**
 
-## Publications
+- Interactive Content Developer
+- Unit Co-coordinator
+- Tutor
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+At the University of Tasmania I co-coordinated, developed online material (such as web-games) for, and tutored a unit about rational decision making in uncertainty.
 
-### Journals
+In regards to my tutoring, anonymous feedback from students described me as “one of the most helpful aspects of the unit”.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+See the [Unit Description here](https://www.utas.edu.au/courses/chm/units/psy115-big-decisions!-rational-belief-and-action-in-an-uncertain-world?year=2021&SQ_CONTEXT_NAME=2021&SQ_ACTION=set_context)
 
-`1669`
-Lectiones opticæ.
+`June 2021`
+__Private Contract__
 
-etc. etc. etc.
+- Python Developer
+The requirement was to build a web-scraper that collected .csv files from a financial website, and translated them into pandas data frames. 
 
-### Patents
+`Nov 2019 - Feb 2020`
+__University Of Tasmania__
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Machine Learning Research Intern
 
+Funded by two scholarships, one from the Australian Mathematical Sciences Institute, and one from the University of Tasmania, I spent the 2019/20 summer exploring parameter selection for clustering algorithms to be used on glacier generated seismic data.
 
-## Occupation
+`JULY 2015 – December 2018`
+__Possability__
 
-`1600`
-__Royal Mint__, London
+- Support Worker
 
-- Warden
-- Minted coins
+At Possability I worked in disability care, and also out-of-home trauma support care for children.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan 2022 -->
 
 
