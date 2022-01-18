@@ -8,7 +8,8 @@ Recent Graduate, Python Developer.
 
 <div id="webaddress">
 <a href="a@oakl.org">a@oakl.org</a>
-| <a href="https://github.com/oakla">My GitHub page</a>
+| <a href="https://github.com/oakla">GitHub</a>
+  | <a href="https://www.linkedin.com/in/alexander-oakley-82407498/">LinkedIn</a>
 </div>
 
 
@@ -26,8 +27,8 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 _6.46 GPA for 3 most recent years_ 
 
 `2015-2020`
-__Bachelor Of Science, University Of Tasmania, Australia__
-_Dean's Honour Roll - GPA of 6.25 or higher for units that contribute to the degree_
+__University Of Tasmania, Australia__  
+_Bachelor Of Science, [Dean's Honour Roll](https://www.utas.edu.au/__data/assets/pdf_file/0004/1427521/CoSE-Outstanding-Achievers-2020-.pdf)_ - GPA of 6.25 or higher for all units that contribute to the completion of the degree
 
 - Applied Maths and Statistics (Major)
 - Machine Learning
@@ -36,17 +37,20 @@ _Dean's Honour Roll - GPA of 6.25 or higher for units that contribute to the deg
 
 
 `2016-2020`
-__Bachelor Of Philosophy, University Of Tasmania, Australia__
-_Dean's Honour Roll - GPA of 6.25 or higher for units that contribute to the degree_
-_No Formal Major_
+__University Of Tasmania, Australia__  
+_Bachelor Of Philosophy*, [Dean's Honour Roll](https://www.utas.edu.au/__data/assets/pdf_file/0008/1548251/2021-CoSE-Outstanding-Achievers-August-2021.pdf)_  
+
 
 - Formal Logic
 - Foreign Language (German, and Indonesian)
 - Religion and Culture (Tibetan Buddhism, and Indonesian Culture)
 
+*_No Formal Major_
 
 `Semester 2, 2018`
-__Overseas Exchange Semester, Radboud University, Netherlands__
+__Radboud University, Netherlands__  
+_Overseas Exchange Semester_
+
 - Artificial Intelligence
 - Computational and Formal Modelling (cognitive and mathematical psychology)
 - Data Mining
@@ -54,7 +58,9 @@ __Overseas Exchange Semester, Radboud University, Netherlands__
 
 
 `2011-2014`
-__Bachelor Of Computer Science, University Of Western Australia__
+__University Of Western Australia__  
+_Bachelor Of Computer Science_
+
 - Algorithms and Computation (Major)
 - Databases
 - Networks and Security
@@ -64,16 +70,27 @@ __Bachelor Of Computer Science, University Of Western Australia__
 - Programming Paradigms
 - Graphics
 
-### Leaderships Activities
+## Extracurricular Activities
+
+`February 2018 - March 2020` 
+__UTAS Acrobatics Society, President and Co-Founder__
+
+Motivated by my enthusiasm for partner acrobatics, and a desire to develop the community I felt a part of, I founded the UTAS Acrobatics Society. Each week we held meet-ups where we created an emotionally and physically safe space to practice partner acrobatics. 
+
+Three or four times a year we ran structured special events. These were either workshops with the help of grants from the university student union, or participation in university open days.
+
+During my time at the society, we were awarded $2,700 in grants, and raised $1,600 in member contributions.
 
 
+`April 2016 – May 2017` 
+__Tasmanian University Climbing Club, Treasurer__
+
+Volunteer role in which I supported the operation of the university climbing by managing its finances.
 
 
-
-<!--
 ## Awards
 
-
+<!--
 `2012`
 President, *Royal Society*, London, UK
 
@@ -99,7 +116,7 @@ See the [Unit Description here](https://www.utas.edu.au/courses/chm/units/psy115
 __Private Contract__
 
 - Python Developer
-The requirement was to build a web-scraper that collected .csv files from a financial website, and translated them into pandas data frames. 
+The requirement was to build a web-scraper that collected `.csv` files from a financial website, and translated them into pandas data frames. 
 
 `Nov 2019 - Feb 2020`
 __University Of Tasmania__
@@ -113,7 +130,7 @@ __Possability__
 
 - Support Worker
 
-At Possability I worked in disability care, and also out-of-home trauma support care for children.
+At Possability, I worked in disability care, and also out-of-home trauma support care for children.
 
 
 
