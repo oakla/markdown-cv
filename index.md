@@ -102,13 +102,13 @@ _Dean’s Summer Research Scholarship_
 - $2000 Stipend
 
 
-`2018 `
+`2018`
 __University Of Tasmania__
 _Tasmania Overseas Travel Scholarship_  
 - $2000 funding for overseas exchange semester  
 
-`2016 `
-__University Of Tasmania  __
+`2016`
+__University Of Tasmania__
 _New Colombo Plan Mobility Grant_  
 - $3000 funding for course work in Indonesia
 
