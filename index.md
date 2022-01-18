@@ -42,6 +42,7 @@ _Bachelor Of Philosophy*, [Dean's Honour Roll](https://www.utas.edu.au/__data/as
 
 
 - Formal Logic
+- Neuroscience
 - Foreign Language (German, and Indonesian)
 - Religion and Culture (Tibetan Buddhism, and Indonesian Culture)
 
@@ -89,6 +90,40 @@ Volunteer role in which I supported the operation of the university climbing by 
 
 
 ## Awards
+
+`Summer 2019-20`
+__Australian Mathematical Sciences Institute (AMSI)__
+Vacation Research Scholarship
+- $3000 Stipend
+
+`Summer 2019-20`
+__University Of Tasmania__
+DEAN’S Summer Research Scholar
+- $2000 Stipend
+
+
+`2018 `
+__University Of Tasmania  __
+_Tasmania Overseas Travel Scholarship_  
+- $2000 funding for overseas exchange semester  
+
+`2016 `
+__University Of Tasmania  __
+_New Colombo Plan Mobility Grant_  
+- $3000 funding for course work in Indonesia
+
+`2013`
+__Uwa Enterprise And Consulting Society__  
+_Start-up Competition, 1st Prize_
+
+- $1000
+
+
+`2012`
+__Asg Group__  
+_Highest Grade In C Programming Unit_ 
+- $500
+
 
 <!--
 `2012`
