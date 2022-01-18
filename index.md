@@ -134,7 +134,7 @@ Associate, *French Academy of Science*, Paris, France
 
 ## Work History
 
-`Jun 2019 – Nov 2021`
+`Jun 2019–Nov 2021`
 **University of Tasmania**
 
 - Interactive Content Developer
@@ -153,14 +153,14 @@ __Private Contract__
 - Python Developer
 The requirement was to build a web-scraper that collected csv files from a financial website, and translated them into pandas data frames. 
 
-`Nov 2019 - Feb 2020`
+`Nov 2019-Feb 2020`
 __University Of Tasmania__
 
 - Machine Learning Research Intern
 
 Funded by two scholarships, one from the Australian Mathematical Sciences Institute, and one from the University of Tasmania, I spent the 2019/20 summer exploring parameter selection for clustering algorithms to be used on glacier generated seismic data.
 
-`July 2015 – December 2018`
+`July 2015–December 2018`
 __Possability__
 
 - Support Worker
