@@ -86,7 +86,7 @@ During my time at the society, we were awarded $2,700 in grants, and raised $1,6
 `Apr 2016 – May 2017` 
 __Tasmanian University Climbing Club, Treasurer__
 
-Volunteer role in which I supported the operation of the university climbing by managing its finances.
+Volunteer role in which I supported the operation of the university climbing club by managing its finances.
 
 
 ## Awards
@@ -160,7 +160,7 @@ __University Of Tasmania__
 
 Funded by two scholarships, one from the Australian Mathematical Sciences Institute, and one from the University of Tasmania, I spent the 2019/20 summer exploring parameter selection for clustering algorithms to be used on glacier generated seismic data.
 
-`July 2015–December 2018`
+`Jul 2015–Dec 2018`
 __Possability__
 
 - Support Worker
