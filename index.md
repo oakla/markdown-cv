@@ -151,7 +151,7 @@ See the [Unit Description here](https://www.utas.edu.au/courses/chm/units/psy115
 __Private Contract__
 
 - Python Developer
-The requirement was to build a web-scraper that collected `.csv` files from a financial website, and translated them into pandas data frames. 
+The requirement was to build a web-scraper that collected csv files from a financial website, and translated them into pandas data frames. 
 
 `Nov 2019 - Feb 2020`
 __University Of Tasmania__
@@ -165,7 +165,7 @@ __Possability__
 
 - Support Worker
 
-  At Possability, I worked in disability care, and also out-of-home trauma support care for children.
+At Possability, I worked in disability care, and also out-of-home trauma support care for children.
 
 
 
