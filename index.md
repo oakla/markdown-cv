@@ -93,17 +93,17 @@ Volunteer role in which I supported the operation of the university climbing by 
 
 `Summer 2019-20`
 __Australian Mathematical Sciences Institute (AMSI)__
-Vacation Research Scholarship
+_Vacation Research Scholarship_
 - $3000 Stipend
 
 `Summer 2019-20`
 __University Of Tasmania__
-DEAN’S Summer Research Scholar
+_Dean’s Summer Research Scholarship_
 - $2000 Stipend
 
 
 `2018 `
-__University Of Tasmania  __
+__University Of Tasmania__
 _Tasmania Overseas Travel Scholarship_  
 - $2000 funding for overseas exchange semester  
 
@@ -160,7 +160,7 @@ __University Of Tasmania__
 
 Funded by two scholarships, one from the Australian Mathematical Sciences Institute, and one from the University of Tasmania, I spent the 2019/20 summer exploring parameter selection for clustering algorithms to be used on glacier generated seismic data.
 
-`JULY 2015 – December 2018`
+`July 2015 – December 2018`
 __Possability__
 
 - Support Worker
