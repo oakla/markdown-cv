@@ -28,7 +28,7 @@ _6.46 GPA for 3 most recent years_
 
 `2015-2020`
 __University Of Tasmania, Australia__  
-_Bachelor Of Science, [Dean's Honour Roll](https://www.utas.edu.au/__data/assets/pdf_file/0004/1427521/CoSE-Outstanding-Achievers-2020-.pdf)_ - GPA of 6.25 or higher for all units that contribute to the completion of the degree
+_Bachelor Of Science, [Dean's Honour Roll](https://www.utas.edu.au/__data/assets/pdf_file/0004/1427521/CoSE-Outstanding-Achievers-2020-.pdf)_ - hGPA of 6.25 or higher for all units that contribute to the completion of the degree
 
 - Applied Maths and Statistics (Major)
 - Machine Learning
@@ -45,8 +45,8 @@ _Bachelor Of Philosophy*, [Dean's Honour Roll](https://www.utas.edu.au/__data/as
 - Neuroscience
 - Foreign Language (German, and Indonesian)
 - Religion and Culture (Tibetan Buddhism, and Indonesian Culture)
+*No Formal Major
 
-*_No Formal Major_
 
 `Semester 2, 2018`
 __Radboud University, Netherlands__  
@@ -73,7 +73,7 @@ _Bachelor Of Computer Science_
 
 ## Extracurricular Activities
 
-`February 2018 - March 2020` 
+`Feb 2018 - Mar 2020` 
 __UTAS Acrobatics Society, President and Co-Founder__
 
 Motivated by my enthusiasm for partner acrobatics, and a desire to develop the community I felt a part of, I founded the UTAS Acrobatics Society. Each week we held meet-ups where we created an emotionally and physically safe space to practice partner acrobatics. 
@@ -83,7 +83,7 @@ Three or four times a year we ran structured special events. These were either w
 During my time at the society, we were awarded $2,700 in grants, and raised $1,600 in member contributions.
 
 
-`April 2016 – May 2017` 
+`Apr 2016 – May 2017` 
 __Tasmanian University Climbing Club, Treasurer__
 
 Volunteer role in which I supported the operation of the university climbing by managing its finances.
@@ -134,7 +134,7 @@ Associate, *French Academy of Science*, Paris, France
 
 ## Work History
 
-`June 2019 – Nov 2021`
+`Jun 2019 – Nov 2021`
 **University of Tasmania**
 
 - Interactive Content Developer
@@ -147,7 +147,7 @@ In regards to my tutoring, anonymous feedback from students described me as “o
 
 See the [Unit Description here](https://www.utas.edu.au/courses/chm/units/psy115-big-decisions!-rational-belief-and-action-in-an-uncertain-world?year=2021&SQ_CONTEXT_NAME=2021&SQ_ACTION=set_context)
 
-`June 2021`
+`Jun 2021`
 __Private Contract__
 
 - Python Developer
