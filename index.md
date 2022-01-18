@@ -28,7 +28,7 @@ _6.46 GPA for 3 most recent years_
 
 `2015-2020`
 __University Of Tasmania, Australia__  
-_Bachelor Of Science, [Dean's Honour Roll](https://www.utas.edu.au/__data/assets/pdf_file/0004/1427521/CoSE-Outstanding-Achievers-2020-.pdf)_ - hGPA of 6.25 or higher for all units that contribute to the completion of the degree
+_Bachelor Of Science, [Dean's Honour Roll](https://www.utas.edu.au/__data/assets/pdf_file/0004/1427521/CoSE-Outstanding-Achievers-2020-.pdf)_ - GPA of 6.25 or higher for all units that contribute to the completion of the degree
 
 - Applied Maths and Statistics (Major)
 - Machine Learning
