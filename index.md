@@ -23,27 +23,35 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 -->
 
 ## Education
+_6.46 GPA for 3 most recent years_ 
 
 `2015-2020`
-__Bachelor Of Science, University Of Tasmania__
+__Bachelor Of Science, University Of Tasmania, Australia__
+_Dean's Honour Roll - GPA of 6.25 or higher for units that contribute to the degree_
+
 - Applied Maths and Statistics (Major)
 - Machine Learning
 - Psychology
 - Biology
 
+
 `2016-2020`
-__Bachelor Of Philosophy, University Of Tasmania__
+__Bachelor Of Philosophy, University Of Tasmania, Australia__
+_Dean's Honour Roll - GPA of 6.25 or higher for units that contribute to the degree_
+_No Formal Major_
+
 - Formal Logic
 - Foreign Language (German, and Indonesian)
 - Religion and Culture (Tibetan Buddhism, and Indonesian Culture)
 
-<!-- 
-`2018`
-__Overseas Exchange Semester, Radboud University__
+
+`Semester 2, 2018`
+__Overseas Exchange Semester, Radboud University, Netherlands__
 - Artificial Intelligence
+- Computational and Formal Modelling (cognitive and mathematical psychology)
 - Data Mining
 - Brain-Computer Interfaces
--->
+
 
 `2011-2014`
 __Bachelor Of Computer Science, University Of Western Australia__
@@ -56,9 +64,16 @@ __Bachelor Of Computer Science, University Of Western Australia__
 - Programming Paradigms
 - Graphics
 
-## Awards
+### Leaderships Activities
+
+
+
+
 
 <!--
+## Awards
+
+
 `2012`
 President, *Royal Society*, London, UK
 
@@ -74,7 +89,7 @@ Associate, *French Academy of Science*, Paris, France
 - Unit Co-coordinator
 - Tutor
 
-At the University of Tasmania I co-coordinated, developed online material (such as web-games) for, and tutored a unit about rational decision making in uncertainty.
+At the University of Tasmania I co-coordinated, developed online material (e.g. web-games, quiz, video presentations) for, and tutored a unit about rational decision making in uncertainty.
 
 In regards to my tutoring, anonymous feedback from students described me as “one of the most helpful aspects of the unit”.
 
