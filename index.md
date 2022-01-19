@@ -7,7 +7,7 @@ Recent Graduate, Python Developer.
 
 
 <div id="webaddress">
-<a href="a@oakl.org">a@oakl.org</a>
+<a href="alex@oakl.me">alex@oakl.me</a>
 | <a href="https://github.com/oakla">GitHub</a>
   | <a href="https://www.linkedin.com/in/alexander-oakley-82407498/">LinkedIn</a>
 </div>
