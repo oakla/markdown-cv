@@ -11,21 +11,11 @@ output:
 
 
 <div id="webaddress">
-<a href="a@oakl.org">a@oakl.org</a>
+<a href="alex@oakl.me">alex@oakl.me</a>
 | <a href="https://github.com/oakla">GitHub</a>
   | <a href="https://www.linkedin.com/in/alexander-oakley-82407498/">LinkedIn</a>
 </div>
 
-
-<!--
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
--->
 
 ## Education
 _6.46 GPA for 3 most recent years_ 
