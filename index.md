@@ -66,7 +66,7 @@ _Bachelor Of Computer Science_
 - Graphics
 
 ## Extracurricular Activities
-`February 2018 - March 2020` 
+`Feb 2018 - Mar 2020` 
 __UTAS Acrobatics Society, President and Co-Founder__
 
 Founded the UTAS Acrobatics Society and led weekly meetings in an emotionally and physically safe space to practice partner acrobatics. 
@@ -76,11 +76,11 @@ Organised and executed quarterly structured special events, including university
 During my time at the society, we were awarded $2,700 in grants, and raised $1,600 in member contributions.
 
 
-`April 2016 – May 2017` 
+`Apr 2016 – May 2017` 
 __Tasmanian University Climbing Club, Treasurer (Volunteer)__
 
 
-`August 2015 – June 2018` 
+`Aug 2015 – Jun 2018` 
 __Source Community Wholefoods, Volunteer__
 
 Volunteered weekly in the café and bulk-food store of a not-for-profit food co-op focused on developing sustainable food systems.
@@ -120,16 +120,9 @@ _Highest Grade In C Programming Unit_
 - $500 cash prize
 
 
-<!--
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
--->
-
 ## Work History
 
-`June 2019 – Nov 2021`
+`Jun 2019 – Nov 2021`
 **University of Tasmania**
 
 - Interactive Content Developer
@@ -142,7 +135,7 @@ Received anonymous feedback from students describing my tutoring as “one of th
 
 See the [Unit Description here](https://www.utas.edu.au/courses/chm/units/psy115-big-decisions!-rational-belief-and-action-in-an-uncertain-world?year=2021&SQ_CONTEXT_NAME=2021&SQ_ACTION=set_context)
 
-`June 2021`
+`Jun 2021`
 __Private Contract__
 
 - Python Developer
@@ -162,7 +155,7 @@ __Self-employed__
 - Private Calculus Tutor 
 
 
-`July 2015 – December 2018`
+`July 2015 – Dec 2018`
 __Possability__
 
 - Support Worker
