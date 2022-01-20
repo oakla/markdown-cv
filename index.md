@@ -1,13 +1,17 @@
 ---
+title: "Alexander Oakley"
 layout: cv
-title: Alexander Oakley's CV
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+  word_document: default
 ---
-# Alexander Oakley
-Recent Graduate, Python Developer.
+# Recent Graduate, Python Developer.
 
 
 <div id="webaddress">
-<a href="alex@oakl.me">alex@oakl.me</a>
+<a href="a@oakl.org">a@oakl.org</a>
 | <a href="https://github.com/oakla">GitHub</a>
   | <a href="https://www.linkedin.com/in/alexander-oakley-82407498/">LinkedIn</a>
 </div>
@@ -28,9 +32,9 @@ _6.46 GPA for 3 most recent years_
 
 `2015-2020`
 __University Of Tasmania, Australia__  
-_Bachelor Of Science, [Dean's Honour Roll](https://www.utas.edu.au/__data/assets/pdf_file/0004/1427521/CoSE-Outstanding-Achievers-2020-.pdf)_ - GPA of 6.25 or higher for all units that contribute to the completion of the degree
+_Bachelor Of Science (Applied Maths and Statistics), [Dean's Honour Roll](https://www.utas.edu.au/__data/assets/pdf_file/0004/1427521/CoSE-Outstanding-Achievers-2020-.pdf)_ - GPA of 6.25 or higher for all units that contribute to the completion of the degree
 
-- Applied Maths and Statistics (Major)
+- Applied Maths and Statistics
 - Machine Learning
 - Psychology
 - Biology
@@ -38,14 +42,14 @@ _Bachelor Of Science, [Dean's Honour Roll](https://www.utas.edu.au/__data/assets
 
 `2016-2020`
 __University Of Tasmania, Australia__  
-_Bachelor Of Philosophy*, [Dean's Honour Roll](https://www.utas.edu.au/__data/assets/pdf_file/0008/1548251/2021-CoSE-Outstanding-Achievers-August-2021.pdf)_  
+_Bachelor Of Philosophy, [Dean's Honour Roll](https://www.utas.edu.au/__data/assets/pdf_file/0008/1548251/2021-CoSE-Outstanding-Achievers-August-2021.pdf)_  
 
 
 - Formal Logic
 - Neuroscience
 - Foreign Language (German, and Indonesian)
-- Religion and Culture (Tibetan Buddhism, and Indonesian Culture)
-*No Formal Major
+- Religion and Culture (Tibetan Buddhism and Indonesian Culture)
+
 
 
 `Semester 2, 2018`
@@ -72,21 +76,25 @@ _Bachelor Of Computer Science_
 - Graphics
 
 ## Extracurricular Activities
-
-`Feb 2018 - Mar 2020` 
+`February 2018 - March 2020` 
 __UTAS Acrobatics Society, President and Co-Founder__
 
-Motivated by my enthusiasm for partner acrobatics, and a desire to develop the community I felt a part of, I founded the UTAS Acrobatics Society. Each week we held meet-ups where we created an emotionally and physically safe space to practice partner acrobatics. 
+Founded the UTAS Acrobatics Society and led weekly meetings in an emotionally and physically safe space to practice partner acrobatics. 
 
-Three or four times a year we ran structured special events. These were either workshops with the help of grants from the university student union, or participation in university open days.
+Organised and executed quarterly structured special events, including university open days and workshops funded by grants from the university student union.
 
 During my time at the society, we were awarded $2,700 in grants, and raised $1,600 in member contributions.
 
 
-`Apr 2016 – May 2017` 
-__Tasmanian University Climbing Club, Treasurer__
+`April 2016 – May 2017` 
+__Tasmanian University Climbing Club, Treasurer (Volunteer)__
 
-Volunteer role in which I supported the operation of the university climbing club by managing its finances.
+
+`August 2015 – June 2018` 
+__Source Community Wholefoods, Volunteer__
+
+Volunteered weekly in the café and bulk-food store of a not-for-profit food co-op focused on developing sustainable food systems.
+
 
 
 ## Awards
@@ -101,7 +109,6 @@ __University Of Tasmania__
 _Dean’s Summer Research Scholarship_
 - $2000 Stipend
 
-
 `2018`
 __University Of Tasmania__
 _Tasmania Overseas Travel Scholarship_  
@@ -115,9 +122,7 @@ _New Colombo Plan Mobility Grant_
 `2013`
 __Uwa Enterprise And Consulting Society__  
 _Start-up Competition, 1st Prize_
-
 - $1000 cash prize
-
 
 `2012`
 __Asg Group__  
@@ -134,40 +139,50 @@ Associate, *French Academy of Science*, Paris, France
 
 ## Work History
 
-`Jun 2019–Nov 2021`
+`June 2019 – Nov 2021`
 **University of Tasmania**
 
 - Interactive Content Developer
 - Unit Co-coordinator
 - Tutor
 
-At the University of Tasmania I co-coordinated, developed online material (e.g. web-games, quiz, video presentations) for, and tutored a unit about rational decision making in uncertainty.
+Co-coordinated and developed online material (e.g. web-games, quiz, video presentations) for a unit on rational decision making in uncertainty.
 
-In regards to my tutoring, anonymous feedback from students described me as “one of the most helpful aspects of the unit”.
+Received anonymous feedback from students describing my tutoring as “one of the most helpful aspects of the unit”.
 
 See the [Unit Description here](https://www.utas.edu.au/courses/chm/units/psy115-big-decisions!-rational-belief-and-action-in-an-uncertain-world?year=2021&SQ_CONTEXT_NAME=2021&SQ_ACTION=set_context)
 
-`Jun 2021`
+`June 2021`
 __Private Contract__
 
 - Python Developer
-The requirement was to build a web-scraper that collected csv files from a financial website, and translated them into pandas data frames. 
 
-`Nov 2019-Feb 2020`
+Built a web-scraper that collected csv files from a financial website and translated them into pandas data frames. 
+
+`Nov 2019 - Feb 2020`
 __University Of Tasmania__
 
 - Machine Learning Research Intern
 
-Funded by two scholarships, one from the Australian Mathematical Sciences Institute, and one from the University of Tasmania, I spent the 2019/20 summer exploring parameter selection for clustering algorithms to be used on glacier generated seismic data.
+Funded by two scholarships from the Australian Mathematical Sciences Institute and the University of Tasmania, I explored parameter selection for clustering algorithms to be used on glacier-generated seismic data.
 
-`Jul 2015–Dec 2018`
+`Feb 2019 - Nov 2019`
+__Self-employed__
+
+- Private Calculus Tutor 
+
+
+`July 2015 – December 2018`
 __Possability__
 
 - Support Worker
 
-At Possability, I worked in disability care, and also out-of-home trauma support care for children.
+Worked in disability care and out-of-home trauma support care for children.
 
 
+## Programming Skills
+
+Python, R, Java, C, Linux, command line interfaces, web servers, git version control
 
 
 <!-- ### Footer

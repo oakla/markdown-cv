@@ -45,6 +45,7 @@ _Bachelor Of Philosophy*, [Dean's Honour Roll](https://www.utas.edu.au/__data/as
 - Neuroscience
 - Foreign Language (German, and Indonesian)
 - Religion and Culture (Tibetan Buddhism, and Indonesian Culture)
+
 *No Formal Major
 
 
