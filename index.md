@@ -155,7 +155,7 @@ __Self-employed__
 - Private Calculus Tutor 
 
 
-`July 2015 – Dec 2018`
+`Jul 2015 – Dec 2018`
 __Possability__
 
 - Support Worker
