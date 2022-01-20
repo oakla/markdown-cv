@@ -7,8 +7,8 @@ output:
   pdf_document: default
   word_document: default
 ---
-# Recent Graduate, Python Developer.
-
+# Alexander Oakley
+Recent Graduate, Python Developer
 
 <div id="webaddress">
 <a href="alex@oakl.me">alex@oakl.me</a>
