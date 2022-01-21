@@ -67,9 +67,9 @@ _Bachelor Of Computer Science_
 
 ## Extracurricular Activities  
   
-`Feb 2018 - Mar 2020` 
+`Feb 2018 - Mar 2020`  
 __UTAS Acrobatics Society__  
-_President and Co-Founder_
+_President and Co-Founder_  
 
 Founded the UTAS Acrobatics Society and led weekly meetings in an emotionally and physically safe space to practice partner acrobatics. 
 
@@ -77,12 +77,12 @@ Organised and executed quarterly structured special events, including university
 
 During my time at the society, we were awarded $2,700 in grants, and raised $1,600 in member contributions.  
   
-  
+<br>  
 `Apr 2016 – May 2017` 
 __Tasmanian University Climbing Club__  
 _Treasurer (Volunteer)_  
   
-  
+<br>  
 `Aug 2015 – Jun 2018` 
 __Source Community Wholefoods__  
 _Volunteer_
