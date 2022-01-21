@@ -139,7 +139,7 @@ Co-coordinated and developed online material (e.g. web-games, quiz, video presen
 
 Received anonymous feedback from students describing my tutoring as “one of the most helpful aspects of the unit”.
 
-See the [Unit Description here](https://www.utas.edu.au/courses/chm/units/psy115-big-decisions!-rational-belief-and-action-in-an-uncertain-world?year=2021&SQ_CONTEXT_NAME=2021&SQ_ACTION=set_context)  
+See the [unit description here](https://www.utas.edu.au/courses/chm/units/psy115-big-decisions!-rational-belief-and-action-in-an-uncertain-world?year=2021&SQ_CONTEXT_NAME=2021&SQ_ACTION=set_context)  
 
 `Jun 2021`
 __Private Contract__
