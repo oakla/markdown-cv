@@ -78,11 +78,13 @@ Organised and executed quarterly structured special events, including university
 During my time at the society, we were awarded $2,700 in grants, and raised $1,600 in member contributions.  
   
 <br>  
+
 `Apr 2016 – May 2017` 
 __Tasmanian University Climbing Club__  
 _Treasurer (Volunteer)_  
   
 <br>  
+
 `Aug 2015 – Jun 2018` 
 __Source Community Wholefoods__  
 _Volunteer_
