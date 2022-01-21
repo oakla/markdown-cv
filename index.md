@@ -67,23 +67,26 @@ _Bachelor Of Computer Science_
 
 ## Extracurricular Activities
 `Feb 2018 - Mar 2020` 
-__UTAS Acrobatics Society, President and Co-Founder__
+__UTAS Acrobatics Society__ 
+_President and Co-Founder_
 
 Founded the UTAS Acrobatics Society and led weekly meetings in an emotionally and physically safe space to practice partner acrobatics. 
 
 Organised and executed quarterly structured special events, including university open days and workshops funded by grants from the university student union.
 
-During my time at the society, we were awarded $2,700 in grants, and raised $1,600 in member contributions.
+During my time at the society, we were awarded $2,700 in grants, and raised $1,600 in member contributions.  
 
 
 `Apr 2016 – May 2017` 
-__Tasmanian University Climbing Club, Treasurer (Volunteer)__
+__Tasmanian University Climbing Club__
+_Treasurer (Volunteer)_  
 
 
 `Aug 2015 – Jun 2018` 
-__Source Community Wholefoods, Volunteer__
+__Source Community Wholefoods__
+_Volunteer_
 
-Volunteered weekly in the café and bulk-food store of a not-for-profit food co-op focused on developing sustainable food systems.
+Volunteered weekly in the café and bulk-food store of a not-for-profit food co-op focused on developing sustainable food systems.  
 
 
 
@@ -133,26 +136,26 @@ Co-coordinated and developed online material (e.g. web-games, quiz, video presen
 
 Received anonymous feedback from students describing my tutoring as “one of the most helpful aspects of the unit”.
 
-See the [Unit Description here](https://www.utas.edu.au/courses/chm/units/psy115-big-decisions!-rational-belief-and-action-in-an-uncertain-world?year=2021&SQ_CONTEXT_NAME=2021&SQ_ACTION=set_context)
+See the [Unit Description here](https://www.utas.edu.au/courses/chm/units/psy115-big-decisions!-rational-belief-and-action-in-an-uncertain-world?year=2021&SQ_CONTEXT_NAME=2021&SQ_ACTION=set_context)  
 
 `Jun 2021`
 __Private Contract__
 
 - Python Developer
 
-Built a web-scraper that collected csv files from a financial website and translated them into pandas data frames. 
+Built a web-scraper that collected csv files from a financial website and translated them into pandas data frames.  
 
 `Nov 2019 - Feb 2020`
 __University Of Tasmania__
 
 - Machine Learning Research Intern
 
-Funded by two scholarships from the Australian Mathematical Sciences Institute and the University of Tasmania, I explored parameter selection for clustering algorithms to be used on glacier-generated seismic data.
+Funded by two scholarships from the Australian Mathematical Sciences Institute and the University of Tasmania, I explored parameter selection for clustering algorithms to be used on glacier-generated seismic data.  
 
 `Feb 2019 - Nov 2019`
 __Self-employed__
 
-- Private Calculus Tutor 
+- Private Calculus Tutor  
 
 
 `Jul 2015 – Dec 2018`
@@ -160,12 +163,12 @@ __Possability__
 
 - Support Worker
 
-Worked in disability care and out-of-home trauma support care for children.
+Worked in disability care and out-of-home trauma support care for children.  
 
 
 ## Programming Skills
 
-Python, R, Java, C, Linux, command line interfaces, web servers, git version control
+Python, R, Java, C, Linux, command line interfaces, web servers, git version control  
 
 
 <!-- ### Footer
