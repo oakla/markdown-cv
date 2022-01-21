@@ -116,12 +116,12 @@ _New Colombo Plan Mobility Grant_
 - $3000 funding for course work in Indonesia
 
 `2013`
-__Uwa Enterprise And Consulting Society__  
+__UWA Enterprise And Consulting Society__  
 _Start-up Competition, 1st Prize_
 - $1000 cash prize
 
 `2012`
-__Asg Group__  
+__ASG Group__  
 _Highest Grade In C Programming Unit_ 
 - $500 cash prize  
 
