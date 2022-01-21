@@ -126,7 +126,7 @@ _Highest Grade In C Programming Unit_
 ## Work History
 
 `Jun 2019 – Nov 2021`  
-**University of Tasmania**
+__University of Tasmania__
 
 - Interactive Content Developer
 - Unit Co-coordinator
