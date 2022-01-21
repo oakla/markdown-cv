@@ -65,7 +65,8 @@ _Bachelor Of Computer Science_
 - Programming Paradigms
 - Graphics
 
-## Extracurricular Activities
+## Extracurricular Activities  
+  
 `Feb 2018 - Mar 2020` 
 __UTAS Acrobatics Society__  
 _President and Co-Founder_
@@ -75,7 +76,7 @@ Founded the UTAS Acrobatics Society and led weekly meetings in an emotionally an
 Organised and executed quarterly structured special events, including university open days and workshops funded by grants from the university student union.
 
 During my time at the society, we were awarded $2,700 in grants, and raised $1,600 in member contributions.  
-
+  
   
 `Apr 2016 – May 2017` 
 __Tasmanian University Climbing Club__  
@@ -120,7 +121,7 @@ _Start-up Competition, 1st Prize_
 `2012`
 __Asg Group__  
 _Highest Grade In C Programming Unit_ 
-- $500 cash prize
+- $500 cash prize  
 
 
 ## Work History
