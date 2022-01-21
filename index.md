@@ -67,7 +67,7 @@ _Bachelor Of Computer Science_
 
 ## Extracurricular Activities
 `Feb 2018 - Mar 2020` 
-__UTAS Acrobatics Society__ 
+__UTAS Acrobatics Society__  
 _President and Co-Founder_
 
 Founded the UTAS Acrobatics Society and led weekly meetings in an emotionally and physically safe space to practice partner acrobatics. 
@@ -78,12 +78,12 @@ During my time at the society, we were awarded $2,700 in grants, and raised $1,6
 
 
 `Apr 2016 – May 2017` 
-__Tasmanian University Climbing Club__
+__Tasmanian University Climbing Club__  
 _Treasurer (Volunteer)_  
 
 
 `Aug 2015 – Jun 2018` 
-__Source Community Wholefoods__
+__Source Community Wholefoods__  
 _Volunteer_
 
 Volunteered weekly in the café and bulk-food store of a not-for-profit food co-op focused on developing sustainable food systems.  
@@ -93,22 +93,22 @@ Volunteered weekly in the café and bulk-food store of a not-for-profit food co-
 ## Awards
 
 `Summer 2019-20`
-__Australian Mathematical Sciences Institute (AMSI)__
+__Australian Mathematical Sciences Institute (AMSI)__  
 _Vacation Research Scholarship_
 - $3000 Stipend
 
 `Summer 2019-20`
-__University Of Tasmania__
+__University Of Tasmania__  
 _Dean’s Summer Research Scholarship_
 - $2000 Stipend
 
 `2018`
-__University Of Tasmania__
+__University Of Tasmania__  
 _Tasmania Overseas Travel Scholarship_  
 - $2000 funding for overseas exchange semester  
 
 `2016`
-__University Of Tasmania__
+__University Of Tasmania__  
 _New Colombo Plan Mobility Grant_  
 - $3000 funding for course work in Indonesia
 
@@ -125,7 +125,7 @@ _Highest Grade In C Programming Unit_
 
 ## Work History
 
-`Jun 2019 – Nov 2021`
+`Jun 2019 – Nov 2021`  
 **University of Tasmania**
 
 - Interactive Content Developer
