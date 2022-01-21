@@ -80,7 +80,7 @@ During my time at the society, we were awarded $2,700 in grants, and raised $1,6
 `Apr 2016 – May 2017` 
 __Tasmanian University Climbing Club__  
 _Treasurer (Volunteer)_  
-
+  
 
 `Aug 2015 – Jun 2018` 
 __Source Community Wholefoods__  
